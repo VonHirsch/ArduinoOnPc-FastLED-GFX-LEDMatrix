@@ -68,6 +68,7 @@ typedef uint8_t byte;
 long random(long);
 long random(long, long);
 void randomSeed(unsigned long);
+void randomSeed2();
 long map(long, long, long, long, long);
 
 // wiring_digital.cpp
